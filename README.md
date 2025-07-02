@@ -3,3 +3,4 @@
 - aplicar un promedio en base a las notas que se le aplique a cada estudiante.
 - Tambien observamos que nuestro sistema muestra las notas, materia, promedio y nombre del alumno.
 - ![Aqui podemos observar el resultado de dicho sistema:](Resultado_programa.png)
+- **Autor: @AndresGolDev** - [Github link:](https://github.com/tu-usuario
